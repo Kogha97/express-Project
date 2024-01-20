@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Egg Omlette",
+    "description": "Delicious protein breakfast of champions",
+    "ingredients": [
+      "4 eggs",
+      "1tbp butter",
+      "salt",
+      "pepper",
+      "Optional fillings - cheese, diced vegetables, ham"
+    ],
+    "preparation": "For a quick omelette, beat 4 eggs with salt and pepper, then cook in a buttered pan until the edges set. Add fillings, fold, and cook until done. Enjoy a speedy and tasty omelette for a satisfying meal!"
+  },
+  {
+    "title": "Corn on the knob",
+    "description": "buttery heaven for grill Lovers",
+    "ingredients": [
+      "4 corns",
+      "1 butter stick",
+      "salt",
+      "pepper"
+    ],
+    "preparation": "brush fresh corn with olive oil, sprinkle with salt, pepper, and optional seasonings. Grill over medium-high heat for 10-15 minutes until tender and charred. Serve with your favorite toppings. "
+  }
+]
