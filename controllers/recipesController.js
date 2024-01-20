@@ -34,5 +34,5 @@ export const deleteRecipe = (req, res) => {
 // EDIT
 export const editRecipe = (req, res) => {
   console.log("/edit");
-  res.send("oedit k");
+  res.send("edit ok");
 };
